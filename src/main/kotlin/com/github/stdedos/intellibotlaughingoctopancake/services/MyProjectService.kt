@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.stdedos.intellibotlaughingoctopancake.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.stdedos.intellibotlaughingoctopancake.MyBundle
 
 class MyProjectService(project: Project) {
 
